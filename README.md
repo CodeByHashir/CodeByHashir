@@ -7,10 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Nest.js, TypeScript, Python and Prisma ORM.
-
-- 👨‍💻 All of my projects are available at [https://CodeByHashir.github.io](https://CodeByHashir.github.io)
-
+- 🔭 I’m currently working on Machine Learning, Gen Ai, ChatBot Dev using Python and related frameworks/Libraries.
+  
+- 👨‍💻 All of my projects are available at https://github.com/CodeByHashir 
 - 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
 
 - 🥅 2025 Goals: Contribute to open source, learn and explore new technologies and working on amazing software projects.
@@ -28,9 +27,11 @@
 <a href="https://linkedin.com/in/hashirahmed07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hashir Ahmed" height="30" width="40" /></a>
 </span>
 <span align="left">
-<a href="https://replit.com/@hashirahmad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/replit.svg" alt="mateenshahzad" height="60" width="90" /></a>
+<a href="https://replit.com/@hashirahmad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/replit.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
 </span>
-
+<span align="left">
+<a href="https://www.instagram.com/im_.hashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/replit.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
+</span>
 
 ## Languages, Tools & Frameworks 
 
