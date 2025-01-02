@@ -30,8 +30,11 @@
 <a href="https://replit.com/@hashirahmad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/replit.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
 </span>
 <span align="left">
-<a href="https://www.instagram.com/im_.hashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/download.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
+  <a href="https://www.instagram.com/im_.hashir/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/R.jpeg" alt="Instagram Icon" style="border-radius: 8px; height: 50px; width: 50px; object-fit: cover; margin: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" />
+  </a>
 </span>
+
 
 
 ## Languages, Tools & Frameworks 
