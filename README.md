@@ -30,8 +30,9 @@
 <a href="https://replit.com/@hashirahmad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/replit.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
 </span>
 <span align="left">
-<a href="https://www.instagram.com/im_.hashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/replit.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
+<a href="https://www.instagram.com/im_.hashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/download.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
 </span>
+
 
 ## Languages, Tools & Frameworks 
 
