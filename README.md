@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Machine Learning, Gen Ai, ChatBot Dev using Python and related frameworks/Libraries.
   
-- 👨‍💻 All of my projects are available at https://github.com/CodeByHashir 
+- 👨‍💻 All of my projects are available at (https://github.com/CodeByHashir?tab=repositories)
 - 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
 
 - 🥅 2025 Goals: Contribute to open source, learn and explore new technologies and working on amazing software projects.
