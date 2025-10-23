@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashir Ahmed </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | Full-Stack Developer</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist | AI Automation Expert</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/main/images/hacking.gif">
 
