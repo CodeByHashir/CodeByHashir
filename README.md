@@ -22,20 +22,20 @@
 
 ```js
 "use creativity";
-import { Person } from "indonesia";
+import { Person } from "United Kingdom";
 
 new Person({
   name: "CodeByHashir",
-  title: "Full Stack Developer",
-  email: "hi@codebyhashir.com",
-  website: "https://github.com/CodeByHashir",
+  title: "Data Scientist",
+  email: "Hashirahmad330@Gmail.com",
+  website: "https://www.hashirahmed.com",
   junior: !!!false,
 }).introduce();
 ```
 
 ```cmd
 D:\lab\CodeByHashir> node index.js
-Hi, my name is CodeByHashir, I'm a Full Stack Developer from Indonesia.
+Hi, my name is CodeByHashir, I'm a Data Scientist from UK.
 ```
 
 <div align="center">
@@ -46,7 +46,7 @@ Hi, my name is CodeByHashir, I'm a Full Stack Developer from Indonesia.
 
 <h3 align="center">✨My Portfolio Website✨</h3>
 
-<a href="https://github.com/CodeByHashir" alt="CodeByHashir Web Portfolio">
+<a href="https://www.hashirahmed.com" alt="CodeByHashir Web Portfolio">
 <img src="https://github.com/user-attachments/assets/5b8f8308-53dc-4e8a-8b58-5707529860e4" align="right">
 </a>
 
@@ -60,15 +60,14 @@ Hi, my name is CodeByHashir, I'm a Full Stack Developer from Indonesia.
 🕑︎ Time Zone: UK
 
 💬 Programming Languages: 
-TypeScript               19 hrs 19 mins      ██████████████████████░░░   87.71 % 
-Bash                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Pyton                    19 hrs 19 mins      ██████████████████████░░░   87.71 % 
+Scikit Learn             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Business Dev             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 25-11-2025 17:27:20 UTC
 <!--END_SECTION:waka-->
 
 </div>
@@ -102,8 +101,6 @@ Other                    1 min               ░░░░░░░░░░░�
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/CodeByHashir)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/CodeByHashir)
 [![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://github.com/CodeByHashir)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://github.com/CodeByHashir)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://github.com/CodeByHashir)
 
 </div>
 
