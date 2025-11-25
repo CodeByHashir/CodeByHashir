@@ -47,12 +47,13 @@ Hi, my name is CodeByHashir, I'm a Data Scientist from UK.
 <h3 align="center">✨My Portfolio Website✨</h3>
 
 <a href="https://www.hashirahmed.com" alt="CodeByHashir Web Portfolio">
-<img src="https://github.com/user-attachments/assets/5b8f8308-53dc-4e8a-8b58-5707529860e4" align="right">
+<img src="/images/Portfolio.png" align="right">
 </a>
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,7 +75,7 @@ Other                    1 min               ░░░░░░░░░░░�
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -92,7 +93,7 @@ Other                    1 min               ░░░░░░░░░░░�
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
@@ -106,7 +107,7 @@ Other                    1 min               ░░░░░░░░░░░�
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
 
 <!-- Support me -->
 <!-- <h3 align="center">☕Support Me☕</h3> -->
@@ -120,14 +121,14 @@ Other                    1 min               ░░░░░░░░░░░�
 <!-- ![](/assets/images/horizontal-divider-gradient.gif) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeByHashir/CodeByHashir/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
 </picture>
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
 
 <div align="center">
     Made with ❤️ by <a href="https://github.com/CodeByHashir" target="_blank">CodeByHashir</a>
@@ -135,4 +136,4 @@ Other                    1 min               ░░░░░░░░░░░�
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
