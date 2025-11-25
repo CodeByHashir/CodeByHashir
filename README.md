@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Banner](/Images/banner.png)
+![Banner](/images/banner.png)
 
 ![](https://komarev.com/ghpvc/?username=CodeByHashir) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/CodeByHashir?label=Followers) ![Stars](https://img.shields.io/github/stars/CodeByHashir?label=Stars)
 
@@ -12,7 +12,7 @@
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/images/horizontal-divider-gradient.gif)
 
 <picture>
 <a href="https://github.com/CodeByHashir.png" alt="Developer">
