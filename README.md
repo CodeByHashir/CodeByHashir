@@ -6,7 +6,7 @@
   
 ![Banner](/images/Banner.png)
 
-![](https://komarev.com/ghpvc/?username=CodeByHashir) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/CodeByHashir?label=Followers) ![Stars](https://img.shields.io/github/stars/CodeByHashir?label=Stars)
+![](https://komarev.com/ghpvc/?username=CodeByHashir) ![Followers](https://img.shields.io/github/followers/CodeByHashir?label=Followers) ![Stars](https://img.shields.io/github/stars/CodeByHashir?label=Stars)
 
 </div>
 
@@ -34,7 +34,7 @@ new Person({
 ```
 
 ```cmd
-D:\lab\CodeByHashir> node index.js
+print("Hi, my name is CodeByHashir, I'm a Data Scientist from UK.")
 Hi, my name is CodeByHashir, I'm a Data Scientist from UK.
 ```
 
