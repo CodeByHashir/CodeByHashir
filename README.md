@@ -34,8 +34,8 @@ new Person({
 ```
 
 ```cmd
-print("Hi, my name is CodeByHashir, I'm a Data Scientist from UK.")
-Hi, my name is CodeByHashir, I'm a Data Scientist from UK.
+print("Hi, my name is Hashir Ahmed, I'm a AI Engineer from UK")
+Hi, my name is Hashir Ahmed, I'm a AI Engineer from UK.
 ```
 
 <div align="center">
