@@ -26,7 +26,7 @@ import { Person } from "United Kingdom";
 
 new Person({
   name: "CodeByHashir",
-  title: "Data Scientist",
+  title: "AI Engineer",
   email: "Hashirahmad330@Gmail.com",
   website: "https://www.hashirahmed.com",
   junior: !!!false,
