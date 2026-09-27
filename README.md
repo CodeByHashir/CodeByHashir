@@ -12,9 +12,9 @@
 
 # Hi, I'm Hashir 👋
 
-I'm a developer and AI enthusiast focused on building practical, data-driven solutions in machine learning, deep learning, and intelligent systems.
+I build ML and AI projects that actually run: dashboards, fine-tuned models, small apps, not just notebooks that stop at .ipynb.
 
-I enjoy turning ideas into working products — from data analysis and predictive modeling to AI-powered dashboards and security-focused research.
+Lately I've been spending more time on agent-adjacent work, like keeping an AI agent from doing something it shouldn't (that's what toolgate, further down, is about).
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Data+Science+%7C+Python+%7C+Research" alt="Typing SVG" />
@@ -22,12 +22,10 @@ I enjoy turning ideas into working products — from data analysis and predictiv
 
 ## 🚀 About Me
 
-- Machine Learning & AI Engineer
-- Data Science practitioner
-- Python and TypeScript developer
-- Interested in AI agents, NLP, computer vision, and applied ML
-- Building projects that combine research, modeling, and real-world usability
-- Open to meaningful collaborations and learning opportunities
+- Python day-to-day; TypeScript and React when a project needs a real frontend
+- Spend most of my time on ML/AI end-to-end: data prep, training, and getting a model into something people can actually use
+- Most interested right now in AI agents and where LLMs quietly break
+- Most of what's below started as "let me see if I can build this"
 
 ## 🧠 Core Skills
 
@@ -111,12 +109,10 @@ I enjoy turning ideas into working products — from data analysis and predictiv
 
 ## 📊 Highlights
 
-- ML and AI projects across multiple domains
-- Real-world dashboard / app development
-- Data science workflow understanding
-- Practical model evaluation and experimentation
-- Security-focused AI research and capability control work
-- Strong interest in building useful, production-inspired applications
+- Built dashboards people can click through, not just models in a notebook (fraud detection, used-car pricing)
+- Fine-tuned BERT for sentiment analysis and wired Gemini into a spam filter
+- Currently digging into agent security: capability gating and prompt-injection defenses (toolgate)
+- Would rather ship something small and working than plan something big and theoretical
 
 ---
 
@@ -126,7 +122,7 @@ I enjoy turning ideas into working products — from data analysis and predictiv
   Internship projects in data science and machine learning.
 
 - [OIBSIP---Oasis-Infobyte-Internship-Tasks](https://github.com/CodeByHashir/OIBSIP---Oasis-Infobyte-Internship-Tasks)
-  Hands-on data science internship tasks and applied learning work.
+  Data science tasks and exercises from the Oasis Infobyte internship program.
 
 ---
 
@@ -171,9 +167,9 @@ I enjoy turning ideas into working products — from data analysis and predictiv
 
 ## 💡 Philosophy
 
-I believe great projects are not just about code — they are about solving real problems, learning continuously, and building systems that have purpose.
+Code is the easy part for me. What I actually care about is whether a project solves a real problem, and whether I understand why it works, not just that it does.
 
-If you're working on AI, ML, data science, or intelligent products, I'd love to connect and collaborate.
+If you're building with AI, ML, or data and want to compare notes, reach out.
 
 ---
 
