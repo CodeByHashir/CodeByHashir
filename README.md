@@ -134,8 +134,8 @@ I enjoy turning ideas into working products — from data analysis and predictiv
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByHashir&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByHashir&layout=compact&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CodeByHashir&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeByHashir&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
